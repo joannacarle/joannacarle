@@ -6,11 +6,12 @@
 
 <div align="center">
   <a href="www.linkedin.com/in/joanna-de-carle-alves" target="_blank">
-   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
   <a href="https://www.instagram.com/j_nnacarle/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=joannacalre240@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=D14836&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
 ###
@@ -19,11 +20,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me (Sobre mim)</h3>
 
 ###
 
-<p align="left">Hello! I'm Joanna, a Systems Analysis and Development student from Brazil 🇧🇷. I'm passionate about technology and programming, and I'm on a journey to become a Full Stack Developer.<br><br>🌱🎧 What I’m Working On!<br><br>- 🎯 Expanding my knowledge in front-end and back-end technologies.<br>- 💻 Improving my skills in C programming, HTML5, CSS3, JavaScript, and GitHub.<br>- 🎮 Exploring frameworks and tools to create modern and efficient web applications.</p>
+<p align="left">Hello! I'm Joanna de Carle, a Systems Analysis and Development student from Brazil 🇧🇷. I'm passionate about technology and programming, and I'm on a journey to become a Full Stack Developer.<br><br>🌱🎧 What I’m Working On!<br><br>- 🎯 Expanding my knowledge in front-end and back-end technologies.<br>- 💻 Improving my skills in C programming, HTML5, CSS3, JavaScript, and GitHub.<br>- 🎮 Exploring frameworks and tools to create modern and efficient web applications.</p>
 
 ###
 
@@ -43,3 +44,12 @@
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=joannacarle&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
