@@ -20,11 +20,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me </h3>
+<h3 align="left"> ᯓ★ About Me </h3>
 
 ###
 
-<p align="left">Hello! I'm Joanna de Carle, a Systems Analysis and Development student from Brazil 🇧🇷. I'm passionate about technology and programming, and I'm on a journey to become a Full Stack Developer.<br><br>🌱🎧 What I’m Working On!<br><br>- 🎯 Expanding my knowledge in front-end and back-end technologies.<br>- 💻 Improving my skills in C programming, HTML5, CSS3, JavaScript, and GitHub.<br>- 🎮 Exploring frameworks and tools to create modern and efficient web applications.</p>
+<p align="left">Hello! I'm Joanna de Carle, a Systems Analysis and Development student from Brazil 🇧🇷. I'm passionate about technology and programming, and I'm on a journey to become a Full Stack Developer.<br><br> 🎧╰┈➤ What I’m Working On!<br><br>- 🎯 Expanding my knowledge in front-end and back-end technologies.<br>- 💻 Improving my skills in C programming, HTML5, CSS3, JavaScript, and GitHub.<br>- 🎮 Exploring frameworks and tools to create modern and efficient web applications.</p>
 
 ###
 
